@@ -1,5 +1,4 @@
 // Author: Thu Vu
-// hw07.cpp
 
 #include "Protector.hpp"
 #include "Noble.hpp"
